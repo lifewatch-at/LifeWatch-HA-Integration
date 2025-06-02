@@ -5,7 +5,7 @@
     "@OE1KHZ"
   ],
   "dependencies": ["mqtt"],
-  "documentation": "https://github.com/lifewatch-at/LifeWatch-HASS-Integration",
+  "documentation": "https://github.com/lifewatch-at/LifeWatch-HA-Integration",
   "requirements": [],
   "version": "0.0.1",
   "config_flow": true
