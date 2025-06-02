@@ -1,0 +1,12 @@
+{
+  "domain": "lifewatch",
+  "name": "LifeWatch",
+  "codeowners": [
+    "@OE1KHZ"
+  ],
+  "dependencies": ["mqtt"],
+  "documentation": "https://github.com/lifewatch-at/LifeWatch-HASS-Integration",
+  "requirements": [],
+  "version": "0.0.1",
+  "config_flow": true
+}
